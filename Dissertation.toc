@@ -1,0 +1,37 @@
+\contentsline {chapter}{Acknowledgements}{ix}
+\contentsline {chapter}{Curriculum Vit\ae }{xi}
+\contentsline {chapter}{Abstract}{xiii}
+\contentsline {chapter}{List of Figures}{xvii}
+\contentsline {chapter}{List of Tables}{xxiii}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Heavy Ion Physics}{2}
+\contentsline {section}{\numberline {1.2}Quarkonia}{5}
+\contentsline {chapter}{\numberline {2}Measurments}{7}
+\contentsline {chapter}{\numberline {3}Datasets}{11}
+\contentsline {subsection}{\numberline {3.0.1}PbPb dimuon trigger and skim}{11}
+\contentsline {subsection}{\numberline {3.0.2}pp sample}{13}
+\contentsline {subsection}{\numberline {3.0.3}Monte Carlo samples}{14}
+\contentsline {chapter}{\numberline {4}Fitting}{15}
+\contentsline {subsection}{\numberline {4.0.4}Signal model studies}{17}
+\contentsline {subsubsection}{Final state radiation model}{17}
+\contentsline {subsection}{\numberline {4.0.5}Background model studies}{21}
+\contentsline {subsubsection}{Like-sign dimuon spectrum}{21}
+\contentsline {subsubsection}{Track-rotation method}{22}
+\contentsline {subsection}{\numberline {4.0.6}Fits to the pp data}{24}
+\contentsline {chapter}{\numberline {5}Efficiency}{31}
+\contentsline {subsubsection}{Trigger efficiency}{35}
+\contentsline {subsubsection}{Muon identification efficiency}{35}
+\contentsline {subsubsection}{Tracking efficiency}{38}
+\contentsline {chapter}{\numberline {6}Upper limits}{45}
+\contentsline {subsubsection}{Single ratio $R_{3}$ limits}{46}
+\contentsline {subsubsection}{Double ratio $\chi _{3}$ limits}{47}
+\contentsline {chapter}{\numberline {7}Final results}{59}
+\contentsline {subsection}{\numberline {7.0.7}Single ratio measurement}{60}
+\contentsline {subsection}{\numberline {7.0.8}Centrality dependence}{65}
+\contentsline {subsection}{\numberline {7.0.9}Double ratio measurement}{71}
+\contentsline {subsection}{\numberline {7.0.10}Kinematic dependences}{73}
+\contentsline {subsection}{\numberline {7.0.11}Significance}{75}
+\contentsline {subsubsection}{Double ratio significance}{75}
+\contentsline {subsubsection}{\ensuremath {R_{AA}}significance}{85}
+\contentsline {chapter}{Bibliography}{97}
+\contentsline {part}{Appendices}{99}

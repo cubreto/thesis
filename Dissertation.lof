@@ -1,0 +1,161 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Many-body dynamics of QCD in different physics limits.}}{3}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Left: The light quark chiral condensate versus the temperature computed in lattice QCD with various number of flavours and values of the $u,d,s$ quark masses. Right: The energy density in QCD with 0, 2 and 3 degenerate quark flavours as well as with two light and one heavier (strange) quarks. The horizontal arrow shows the value of the Stefan-Boltzmann limit for an ideal quark-gluon gas}}{4}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces QCD phase diagram in the $1/x,Q^2$ plane (each circle represents a parton with transverse area $\sim 1/Q^2$ and fraction $x$ of the hadron momentum). The different evolution regimes (DGLAP, BFKL, saturation) are indicated, as well as the saturation scale and geometric scaling curves between the dense and dilute domains}}{6}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Fit to the dimuon invariant-mass distributions, for the PbPb sample. ($150 \mu b^{-1}$) }}{18}
+\contentsline {subfigure}{\string \numberline {4.1(a)}{\ignorespaces $^\mu >3.5$}}{18}
+\contentsline {subfigure}{\string \numberline {4.1(b)}{\ignorespaces $^\mu >4.0$}}{18}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces FSR parameter estimation from MC.}}{19}
+\contentsline {subfigure}{\string \numberline {4.2(a)}{\ignorespaces fixed: $\sigma = 92 $, $n=2.3$; float: $\alpha $ }}{19}
+\contentsline {subfigure}{\string \numberline {4.2(b)}{\ignorespaces fixed: $\sigma = 92 $, $\alpha =1.674$; float: $n$}}{19}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces FSR parameter estimation from like-sign subtracted data.}}{20}
+\contentsline {subfigure}{\string \numberline {4.3(a)}{\ignorespaces bins:100}}{20}
+\contentsline {subfigure}{\string \numberline {4.3(b)}{\ignorespaces bins:70}}{20}
+\contentsline {subfigure}{\string \numberline {4.3(c)}{\ignorespaces bins:50}}{20}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Mass fits, with background constrained from like-sign dimuon spectrum.}}{23}
+\contentsline {subfigure}{\string \numberline {4.4(a)}{\ignorespaces $^\mu >3.5$, rookeyspdf, $70 \mu b^{-1}$}}{23}
+\contentsline {subfigure}{\string \numberline {4.4(b)}{\ignorespaces $^\mu >4.0$, rookeyspdf, $150 \mu b^{-1}$}}{23}
+\contentsline {subfigure}{\string \numberline {4.4(c)}{\ignorespaces $^\mu >3.5$, exp*erf, $70 \mu b^{-1}$}}{23}
+\contentsline {subfigure}{\string \numberline {4.4(d)}{\ignorespaces $^\mu >4.0$, exp*erf, $150 \mu b^{-1}$}}{23}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Mass fit, with background constrained from the track-rotated like-sign dimuon spectrum shown in magenta ($^\mu >4.0$, $150 \mu b^{-1}$).}}{25}
+\contentsline {subfigure}{\string \numberline {4.5(a)}{\ignorespaces erf*exp + pol.2}}{25}
+\contentsline {subfigure}{\string \numberline {4.5(b)}{\ignorespaces keysPdf + pol.2}}{25}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Mass fit, with background constrained from the track-rotated unlike-sign dimuon spectrum shown in magenta points. The magenta curve is normalized to like-sign pairs yield.}}{26}
+\contentsline {subfigure}{\string \numberline {4.6(a)}{\ignorespaces erf*exp + pol.2}}{26}
+\contentsline {subfigure}{\string \numberline {4.6(b)}{\ignorespaces keysPdf + pol.2}}{26}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Compare like-sign, track rotation, and unlike-sign pairs}}{27}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Mass fits to the pp data ($231 nb^{-1}$) with error function. Figs\nobreakspace {}4.8(a)\hbox {},\nobreakspace {}4.8(b)\hbox {}: signal shape parameters are left floating; Figs\nobreakspace {}4.8(c)\hbox {},\nobreakspace {}4.8(d)\hbox {}: signal shape parameters are fixed to the PbPb results.}}{28}
+\contentsline {subfigure}{\string \numberline {4.8(a)}{\ignorespaces $^\mu >3.5$}}{28}
+\contentsline {subfigure}{\string \numberline {4.8(b)}{\ignorespaces $^\mu >4.0$}}{28}
+\contentsline {subfigure}{\string \numberline {4.8(c)}{\ignorespaces $^\mu >3.5$; signal shape fixed to PbPb}}{28}
+\contentsline {subfigure}{\string \numberline {4.8(d)}{\ignorespaces $^\mu >4.0$; signal shape fixed to PbPb}}{28}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Mass fits to the pp data ($231 nb^{-1}$), using like-sign information. Figs\nobreakspace {}4.9(a)\hbox {},\nobreakspace {}4.9(b)\hbox {}: signal shape parameters are left floating; Figs\nobreakspace {}4.9(c)\hbox {},\nobreakspace {}4.9(d)\hbox {}: signal shape parameters are fixed to the PbPb results.}}{29}
+\contentsline {subfigure}{\string \numberline {4.9(a)}{\ignorespaces $^\mu >3.5$}}{29}
+\contentsline {subfigure}{\string \numberline {4.9(b)}{\ignorespaces $^\mu >4.0$}}{29}
+\contentsline {subfigure}{\string \numberline {4.9(c)}{\ignorespaces $^\mu >3.5$; signal shape fixed to PbPb}}{29}
+\contentsline {subfigure}{\string \numberline {4.9(d)}{\ignorespaces $^\mu >4.0$; signal shape fixed to PbPb}}{29}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Examples of tag-probe pair mass fits used to extract the trigger efficiency for data and MC.}}{36}
+\contentsline {subfigure}{\string \numberline {5.1(a)}{\ignorespaces Data}}{36}
+\contentsline {subfigure}{\string \numberline {5.1(b)}{\ignorespaces Monte Carlo}}{36}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Trigger efficiency measurements with tag and probe, and dependencies on probe muon and pseudo-rapidity and event centrality. The efficiencies measured in the full samples are represented as open symbols and the corresponding numerical values are displayed for data and simulation. }}{37}
+\contentsline {subfigure}{\string \numberline {5.2(a)}{\ignorespaces Trigger efficiency dependence on muon $$.}}{37}
+\contentsline {subfigure}{\string \numberline {5.2(b)}{\ignorespaces Trigger efficiency dependence on muon $\eta $.}}{37}
+\contentsline {subfigure}{\string \numberline {5.2(c)}{\ignorespaces Trigger efficiency dependence on event centrality.}}{37}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Examples of tag-probe pair mass fits for the muon identification efficiency in MC and data.}}{39}
+\contentsline {subfigure}{\string \numberline {5.3(a)}{\ignorespaces Data}}{39}
+\contentsline {subfigure}{\string \numberline {5.3(b)}{\ignorespaces Simulation}}{39}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Muon identification efficiency measurements with tag and probe, and dependencies on probe muon and pseudo-rapidity and event centrality. The efficiencies measured in the full samples are represented as open symbols and the corresponding numerical values are displayed for data and simulation.}}{40}
+\contentsline {subfigure}{\string \numberline {5.4(a)}{\ignorespaces Muon id efficiency dependence on muon $$.}}{40}
+\contentsline {subfigure}{\string \numberline {5.4(b)}{\ignorespaces Muon id efficiency dependence on muon $\eta $.}}{40}
+\contentsline {subfigure}{\string \numberline {5.4(c)}{\ignorespaces Muon id efficiency dependence on event centrality.}}{40}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Examples of tag-probe pair mass fits for the inner tracking efficiency.}}{41}
+\contentsline {subfigure}{\string \numberline {5.5(a)}{\ignorespaces Data}}{41}
+\contentsline {subfigure}{\string \numberline {5.5(b)}{\ignorespaces Simulation}}{41}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Tracking efficiency measurements with tag and probe, and dependencies on probe muon and pseudo-rapidity and event centrality. The efficiencies measured in the full samples are represented as open symbols and the corresponding numerical values are displayed for data and simulation.}}{42}
+\contentsline {subfigure}{\string \numberline {5.6(a)}{\ignorespaces Tracking efficiency dependence on muon $$.}}{42}
+\contentsline {subfigure}{\string \numberline {5.6(b)}{\ignorespaces Tracking efficiency dependence on muon $\eta $.}}{42}
+\contentsline {subfigure}{\string \numberline {5.6(c)}{\ignorespaces Tracking efficiency dependence on event centrality.}}{42}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces $\ensuremath {\Upsilon \mathrm {(3S)}}$ significance, estimated via likelihood ratio, by allowing and disallowing $\ensuremath {\Upsilon \mathrm {(3S)}}$ p.d.f. in two fits. }}{45}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Upper limit results for $R_3$ in \ensuremath {\text {PbPb}}using the Feldman-Cousins method. Shown is a $p$-value scan using 1000 pseudo experiments for each scanned point. The 95\% C.L. upper limit corresponds to the point where the observed CLs crosses the 0.05 horizontal/red line. }}{48}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces 95\% interval on $\chi _{3}$ with Feldman Cousins technique after including systematic uncertainties. }}{48}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces 95\% interval on $\chi _{3}$ with profile likelihood calculator not including systematic uncertainties. }}{49}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces $p$-value scan for $\ensuremath {R_{AA}}(\ensuremath {\Upsilon \mathrm {(3S)}})$ using the Feldman-Cousins technique.}}{51}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces A thousand pseudo-experiments for each of the ten points scanned. $H_{sb}$; red curve, $H_{b}$ blue curve and black line is the test statistic. As we increase our parameter of interest it is easier to differentiate between the two hypotheses and the area under the red curve becomes smaller than the area under the blue curve.}}{52}
+\contentsline {subfigure}{\string \numberline {6.6(a)}{\ignorespaces Pseudo-experiments for null and alternative hypotheses and using likelihood ratio test statistics.}}{52}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Profiled likelihood ratio. It shows the confidence interval at $95\%$ confidence level.}}{53}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces $p$-value scan for $\ensuremath {R_{AA}}(\ensuremath {\Upsilon \mathrm {(3S)}})$ using the Feldman-Cousins technique at 68 \% confidence level.}}{54}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Upper limit results using the Feldman-Cousins method on $R_3$ in \ensuremath {\text {PbPb}}, evaluated for the different centrality bins. \emph {(Note: being updated)} }}{56}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces CLs and Bayesian cross checks for the centrality integrated bin, using uniform prior. Figs\nobreakspace {}6.10(a)\hbox {},\nobreakspace {}6.10(b)\hbox {}: p-value Scan with different test statistics using 1000 pseudo experiments at each point; Figs\nobreakspace {}6.10(c)\hbox {},\nobreakspace {}6.10(d)\hbox {}: Two different Bayesian approaches: Numerical calculation and Markov Chain Monte Carlo. \emph {(Note: being updated)}}}{57}
+\contentsline {subfigure}{\string \numberline {6.10(a)}{\ignorespaces Observed CLs crosses the 0.05 red line}}{57}
+\contentsline {subfigure}{\string \numberline {6.10(b)}{\ignorespaces Asymptotic approach using Asimov test statistics}}{57}
+\contentsline {subfigure}{\string \numberline {6.10(c)}{\ignorespaces Bayesian posterior}}{57}
+\contentsline {subfigure}{\string \numberline {6.10(d)}{\ignorespaces Markov Chain Montecarlo}}{57}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Bayesian results for 40-50\% centrality bin. Figures\nobreakspace {}6.11(a)\hbox {},\nobreakspace {}6.11(b)\hbox {}: Bayesian Numeric Calculator and Montecarlo Markov Chain. \emph {(Note: being updated)} }}{58}
+\contentsline {subfigure}{\string \numberline {6.11(a)}{\ignorespaces Bayesian posterior}}{58}
+\contentsline {subfigure}{\string \numberline {6.11(b)}{\ignorespaces MC Markov Chain posterior}}{58}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Nominal mass fits, performed separately to the \ensuremath {\text {PbPb}}($150 \mu b^{-1}$) and {\ensuremath {pp}}($231 nb^{-1}$) full datasets.}}{61}
+\contentsline {subfigure}{\string \numberline {7.1(a)}{\ignorespaces Fit to the PbPb data}}{61}
+\contentsline {subfigure}{\string \numberline {7.1(b)}{\ignorespaces Fit to the pp data}}{61}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces PbPb fit model variations ($150 \mu b^{-1}$).}}{64}
+\contentsline {subfigure}{\string \numberline {7.2(a)}{\ignorespaces fix CB to MC (alpha = 1.4)}}{64}
+\contentsline {subfigure}{\string \numberline {7.2(b)}{\ignorespaces fix resolution to MC}}{64}
+\contentsline {subfigure}{\string \numberline {7.2(c)}{\ignorespaces fix CB and resolution to MC}}{64}
+\contentsline {subfigure}{\string \numberline {7.2(d)}{\ignorespaces LS keys + pol2}}{64}
+\contentsline {subfigure}{\string \numberline {7.2(e)}{\ignorespaces LS TrkRot keys + pol2}}{64}
+\contentsline {subfigure}{\string \numberline {7.2(f)}{\ignorespaces OS TrkRot keys + pol2}}{64}
+\contentsline {subfigure}{\string \numberline {7.2(g)}{\ignorespaces LS erf*exp + pol2}}{64}
+\contentsline {subfigure}{\string \numberline {7.2(h)}{\ignorespaces LS TrkRot erf*exp + pol2}}{64}
+\contentsline {subfigure}{\string \numberline {7.2(i)}{\ignorespaces OS TrkRot erf*exp + pol2}}{64}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Centrality dependence of the PbPb single ratio, for $^\mu >4.0$. ($150 \mu b^{-1}$).}}{67}
+\contentsline {subfigure}{\string \numberline {7.3(a)}{\ignorespaces 0- 5\%}}{67}
+\contentsline {subfigure}{\string \numberline {7.3(b)}{\ignorespaces 5- 10\%}}{67}
+\contentsline {subfigure}{\string \numberline {7.3(c)}{\ignorespaces 10- 20\%}}{67}
+\contentsline {subfigure}{\string \numberline {7.3(d)}{\ignorespaces 20- 30\%}}{67}
+\contentsline {subfigure}{\string \numberline {7.3(e)}{\ignorespaces 30- 40\%}}{67}
+\contentsline {subfigure}{\string \numberline {7.3(f)}{\ignorespaces 40- 50\%}}{67}
+\contentsline {subfigure}{\string \numberline {7.3(g)}{\ignorespaces 50-100\%}}{67}
+\contentsline {subfigure}{\string \numberline {7.3(h)}{\ignorespaces 50- 60\%}}{67}
+\contentsline {subfigure}{\string \numberline {7.3(i)}{\ignorespaces 60-100\%}}{67}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Centrality dependence of the double ratios $\chi _{23}$ and $\chi _{2}$; the PbPb statistical and systematic uncertainties are included; the graphs are normalized by the corresponding {\ensuremath {pp}}single-ratio central values; {\ensuremath {pp}}uncertainties are represented by gray box at unity, and are excluded from the data points as they do not affect point-to-point trend comparison. ($150 \mu b^{-1}$).}}{69}
+\contentsline {subfigure}{\string \numberline {7.4(a)}{\ignorespaces $\chi _{23}$,$^\mu >4.0$}}{69}
+\contentsline {subfigure}{\string \numberline {7.4(b)}{\ignorespaces $\chi _{2}$, $^\mu >4.0$}}{69}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Replace the negative error bars in Fig.\nobreakspace {}7.4\hbox {} with Feldman-Cousins limits.}}{70}
+\contentsline {subfigure}{\string \numberline {7.5(a)}{\ignorespaces $\chi _{23}$,$^\mu >4.0$}}{70}
+\contentsline {subfigure}{\string \numberline {7.5(b)}{\ignorespaces $\chi _{2}$, $^\mu >4.0$}}{70}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Simultaneous fit to the \ensuremath {\text {PbPb}}($150 \mu b^{-1}$) and {\ensuremath {pp}}($231 nb^{-1}$) datasets, for $^\mu >4.0$.}}{74}
+\contentsline {subfigure}{\string \numberline {7.6(a)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}projection}}{74}
+\contentsline {subfigure}{\string \numberline {7.6(b)}{\ignorespaces {\string \ensuremath {pp}}projection}}{74}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Mass fits in ranges of dimuon rapidity.}}{76}
+\contentsline {subfigure}{\string \numberline {7.7(a)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}data $0.0<|y|<1.0$}}{76}
+\contentsline {subfigure}{\string \numberline {7.7(b)}{\ignorespaces {\string \ensuremath {pp}}data $0.0<|y|<1.0$}}{76}
+\contentsline {subfigure}{\string \numberline {7.7(c)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}data $1.0<|y|<2.4$}}{76}
+\contentsline {subfigure}{\string \numberline {7.7(d)}{\ignorespaces {\string \ensuremath {pp}}data $1.0<|y|<2.4$}}{76}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Mass fits in ranges of dimuon momentum.}}{77}
+\contentsline {subfigure}{\string \numberline {7.8(a)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}data $^\string \ensuremath {\Upsilon }<5$}}{77}
+\contentsline {subfigure}{\string \numberline {7.8(b)}{\ignorespaces {\string \ensuremath {pp}}data $^\string \ensuremath {\Upsilon }<5$}}{77}
+\contentsline {subfigure}{\string \numberline {7.8(c)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}data $^\string \ensuremath {\Upsilon }>5$}}{77}
+\contentsline {subfigure}{\string \numberline {7.8(d)}{\ignorespaces {\string \ensuremath {pp}}data $^\string \ensuremath {\Upsilon }>5$}}{77}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Rapidity and {} dependences of the double ratios.}}{78}
+\contentsline {subfigure}{\string \numberline {7.9(a)}{\ignorespaces $|y|$ dependence, stat. err. only}}{78}
+\contentsline {subfigure}{\string \numberline {7.9(b)}{\ignorespaces $|y|$ dependence, with syst.}}{78}
+\contentsline {subfigure}{\string \numberline {7.9(c)}{\ignorespaces $$ dependence, stat. err. only}}{78}
+\contentsline {subfigure}{\string \numberline {7.9(d)}{\ignorespaces $$ dependence, with syst.}}{78}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Mass projections of the fit overlaid with the same fit under the assumption of the null hypothesis show in the dashed green curve, used in the estimation of the significance.}}{79}
+\contentsline {subfigure}{\string \numberline {7.10(a)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}data fit projection}}{79}
+\contentsline {subfigure}{\string \numberline {7.10(b)}{\ignorespaces {\string \ensuremath {pp}}data fit projection}}{79}
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Mass projections of the fit overlaid with the same fit under the assumption of the null hypothesis show in the dashed green curve, used in the estimation of the significance; the fit is performed in a restricted mass range, as to account for the systematic and statistical uncertainties, as described in the text.}}{80}
+\contentsline {subfigure}{\string \numberline {7.11(a)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}data fit projection}}{80}
+\contentsline {subfigure}{\string \numberline {7.11(b)}{\ignorespaces {\string \ensuremath {pp}}data fit projection}}{80}
+\contentsline {figure}{\numberline {7.12}{\ignorespaces Distributions of $\chi _{23}$ from pseudo-experiments generated under the hypothesis of no suppression. The arrow indicates the $\chi _{23}$ value that would correspond to $3\sigma $ significance. }}{83}
+\contentsline {subfigure}{\string \numberline {7.12(a)}{\ignorespaces $^\mu >3.5$}}{83}
+\contentsline {subfigure}{\string \numberline {7.12(b)}{\ignorespaces $^\mu >4.0$}}{83}
+\contentsline {figure}{\numberline {7.13}{\ignorespaces Distributions of $\chi _{2}$ from pseudo-experiments generated under the hypothesis of no suppression. The arrow indicates the $\chi _{2}$ value that would correspond to $4\sigma $ significance (systematic included).}}{84}
+\contentsline {figure}{\numberline {7.14}{\ignorespaces Mass projections of the fit overlaid with the same fit under the assumption of the null hypothesis show in the dashed green curve, used in the estimation of the significance. Null hypothesis: $\ensuremath {\Upsilon \text {(1S)}}\ensuremath {R_{AA}}= 1, \ensuremath {\Upsilon \text {(2S)}}\ensuremath {R_{AA}}= 1, \ensuremath {\Upsilon \mathrm {(3S)}}\ensuremath {R_{AA}}= 1$ }}{85}
+\contentsline {subfigure}{\string \numberline {7.14(a)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}data fit projection}}{85}
+\contentsline {subfigure}{\string \numberline {7.14(b)}{\ignorespaces {\string \ensuremath {pp}}data fit projection}}{85}
+\contentsline {figure}{\numberline {7.15}{\ignorespaces Mass projections of the fit overlaid with the same fit under the assumption of the null hypothesis show in the dashed green curve, used in the estimation of the significance. Null hypothesis: $\ensuremath {\Upsilon \text {(2S)}}\ensuremath {R_{AA}}= 1, \ensuremath {\Upsilon \mathrm {(3S)}}\ensuremath {R_{AA}}= 1$ }}{86}
+\contentsline {subfigure}{\string \numberline {7.15(a)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}data fit projection}}{86}
+\contentsline {subfigure}{\string \numberline {7.15(b)}{\ignorespaces {\string \ensuremath {pp}}data fit projection}}{86}
+\contentsline {figure}{\numberline {7.16}{\ignorespaces Mass projections of the fit overlaid with the same fit under the assumption of the null hypothesis show in the dashed green curve, used in the estimation of the significance. Null hypothesis: $\ensuremath {\Upsilon \text {(1S)}}\ensuremath {R_{AA}}= 1$ }}{87}
+\contentsline {subfigure}{\string \numberline {7.16(a)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}data fit projection}}{87}
+\contentsline {subfigure}{\string \numberline {7.16(b)}{\ignorespaces {\string \ensuremath {pp}}data fit projection}}{87}
+\contentsline {figure}{\numberline {7.17}{\ignorespaces Mass projections of the fit overlaid with the same fit under the assumption of the null hypothesis show in the dashed green curve, used in the estimation of the significance. Null hypothesis: $\ensuremath {\Upsilon \text {(1S)}}\ensuremath {R_{AA}}= 1$. ($centrality < 10\% $ cut is used for the \ensuremath {\text {PbPb}}sample.) }}{88}
+\contentsline {subfigure}{\string \numberline {7.17(a)}{\ignorespaces \string \ensuremath {\string \text {PbPb}}data fit projection}}{88}
+\contentsline {subfigure}{\string \numberline {7.17(b)}{\ignorespaces {\string \ensuremath {pp}}data fit projection}}{88}
+\contentsline {figure}{\numberline {7.18}{\ignorespaces Results from the $95 \mu b^{-1}$ dataset. ($>3.5$)}}{92}
+\contentsline {subfigure}{\string \numberline {7.18(a)}{\ignorespaces Minimum bias}}{92}
+\contentsline {subfigure}{\string \numberline {7.18(b)}{\ignorespaces Single ratio $R_{23}$ vs centrality (stat. error only)}}{92}
+\contentsline {subfigure}{\string \numberline {7.18(c)}{\ignorespaces 0- 10\%}}{92}
+\contentsline {subfigure}{\string \numberline {7.18(d)}{\ignorespaces 10- 20\%}}{92}
+\contentsline {subfigure}{\string \numberline {7.18(e)}{\ignorespaces 20- 50\%}}{92}
+\contentsline {subfigure}{\string \numberline {7.18(f)}{\ignorespaces 50-100\%}}{92}
+\contentsline {figure}{\numberline {7.19}{\ignorespaces Illustration of the excited to ground states relative \ensuremath {\Upsilon }\ suppression in \ensuremath {\text {PbPb}}compared to {\ensuremath {pp}}, and comparison of the effect observed using the 2010 \emph {(left)} and 2011 \emph {(right)} \ensuremath {\text {PbPb}}datasets. The fit to the \ensuremath {\text {PbPb}}data, shown by the continuous line, is overlaid with the result of the {\ensuremath {pp}}fit, represented by the dashed line (shown on top of a common \ensuremath {\text {PbPb}}background shape, for comparison). For a better comparison, the background shape, background yield, mass peak width, mass peak tail shape and the \ensuremath {\Upsilon \text {(1S)}}yields in the red line are fixed to the PbPb fit, while the \ensuremath {\Upsilon \text {(2S)}}/\ensuremath {\Upsilon \text {(1S)}}and \ensuremath {\Upsilon \mathrm {(3S)}}/\ensuremath {\Upsilon \text {(1S)}}ratios are fixed to the pp fit values. These plots are provided for illustration, and do not reflect the analysis details.}}{94}
+\contentsline {subfigure}{\string \numberline {7.19(a)}{\ignorespaces 2010}}{94}
+\contentsline {subfigure}{\string \numberline {7.19(b)}{\ignorespaces 2011}}{94}
+\contentsline {figure}{\numberline {7.20}{\ignorespaces Dimuon invariant-mass distribution from the \ensuremath {\text {PbPb}}data, with the fit results shown as the solid (data + background) and dot-dashed (background-only) lines. The dashed curve illustrates the corresponding signals in {\ensuremath {pp}}data, scaled by the \ensuremath {R_{AA}}values. The same reconstruction algorithm and analysis criteria are applied to the \ensuremath {\text {PbPb}}and {\ensuremath {pp}}datasets, including a transverse momentum requirement on single muons of $> 4 $. }}{95}

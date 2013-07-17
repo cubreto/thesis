@@ -1,0 +1,215 @@
+--- COMMENTS may be placed outside the @ENTRYTYPE{ ... } stuctures
+--- CMS guidelines
+---- All URLs for CMS notes, ANs, etc, should refer to the CDS server, not the CMS server. Use our standard format for them, as shown below.
+---- If a collaboration is referenced by the collaboration name, it should be listed in the AUTHOR field. If by a first author + "and others", the collaboration name must be listed in the COLLABORATION field.
+----   We use the collaboration in preference to the author field, but most journals will list both, so include both.
+---- Number of authors to list:
+----   PRL requests that we include all authors up to fifteen except for large collaborations, and we take this as our internal guide as well.
+----   The individual journal bib style file (theirs, ours, PLB, etc.) will truncate at the appropriate point. We have ours set to _3_ as
+----   a reminder to list the appropriate number. For large collaborations, just use first author + "and others".
+---- Use only the URL field instead of embedding an href (this is a change in our practice).
+---- A reference only published on the arXiv should be listed as UNPUBLISHED (with a note "Submitted to XXX" for CMS papers).
+---- Some journals will lowercase the title: use {} to protect words which must be capitalized, e.g., {LHC}, {TeV}, {CERN}, {CMS}. Do not escape the entire title as it will then clash with the journal style.
+---- Journal names: the journals generally include the series in the journal name, "Physical Review D", vol 5, rather than PR D5
+%
+@article{prl, 
+      author         = "Chatrchyan, Serguei and others",
+      title          = "{Indications of suppression of excited $\Upsilon$ states
+                        in PbPb collisions at $\sqrt{S_{NN}}$ = 2.76 TeV}",
+      collaboration  = "CMS",
+      journal        = "Phys.Rev.Lett.",
+      volume         = "107",
+      pages          = "052302",
+      doi            = "10.1103/PhysRevLett.107.052302",
+      year           = "2011",
+      eprint         = "1105.4894",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+}
+%
+@article{QM2011, 
+      author         = "Zhen Hu",
+      title          = "{Bottomonium production measured in PbPb and pp collisions by CMS}",
+      collaboration  = "CMS",
+      journal        = "J.Phys.G:Nucl.Part.Phys.",
+      volume         = "38",
+      pages          = "124071",
+      doi            = "10.1088/0954-3899/38/12/124071",
+      year           = "2011",
+}
+@ARTICLE{CMS_HIN_2011-007,
+     collaboration       = "CMS",
+     TITLE        = "Suppression of \PgU excited states in \PbPb collisions at \sqrtsnn = 2.76\TeV",
+     JOURNAL      = "CMS Physics Analysis Summary",
+     VOLUME       = "\href{http://cms.cern.ch/iCMS/}{HIN-2011/007}",
+     YEAR         = "2010"}
+%
+@TECHREPORT{CMS_AN_2010-140,
+     AUTHOR       = "{I. Shipsey, N. Leonardo et al (for the Upsilon team)}",
+     TITLE        = "Measurement of the inclusive Upsilon production cross section in \pp collisions at \sqrts = 7\TeV",
+     TYPE      = "CMS Note",
+     NUMBER       = "2010/040",
+     URL       = "http://cms.cern.ch/iCMS/jsp/openfile.jsp?tp=draft&files=AN2010_140_v3.pdf",
+     YEAR         = "2010"}
+%
+@TechReport{muon-pog,
+     author = "{CMS Collaboration}",
+     collaboration = "CMS",
+     title        = "Performance of muon identification in \pp collisions at \sqrts = 7\TeV",
+     type      = "{CMS Physics Analysis Summary}",
+     number = "{MUO-2010/02}",
+     url       = "http://cdsweb.cern.ch/record/1279140/files/MUO-10-002-pas.pdf",
+     year         = "2010"
+}
+%
+@TECHREPORT{CMS_PAS_HIN-10-006,
+     AUTHOR      = "{CMS Collaboration}",
+     COLLABORATION = {CMS},
+     TITLE        = "Quarkonium production in PbPb collisions",
+     TYPE      = "CMS Note",
+     NUMBER       = "CMS-PAS-HIN-10-006",
+     URL       = "",
+     YEAR         = "2011"}
+%
+@TECHREPORT{CMS_AN_2011_062,
+     AUTHOR      = "{CMS Collaboration}",
+     COLLABORATION = {CMS},
+     TITLE        = "Quarkonium production in PbPb collisions",
+     TYPE      = "CMS Note",
+     NUMBER       = "AN 2011/062",
+     URL       = "",
+     YEAR         = "2011"}
+%
+%Khachatryan:2010zg,
+@article{prd,
+      author         = "Khachatryan, Vardan and others",
+      title          = "{Measurement of the Inclusive Upsilon production cross
+                        section in pp collisions at sqrt(s)=7 TeV}",
+      collaboration  = "CMS",
+      journal        = "Phys.Rev.",
+      volume         = "D83",
+      pages          = "112004",
+      doi            = "10.1103/PhysRevD.83.112004",
+      year           = "2011",
+      eprint         = "1012.5545",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ex",
+      reportNumber   = "FERMILAB-PUB-10-616-CMS, CMS-BPH-10-003,
+                        CERN-PH-EP-2010-055",
+      SLACcitation   = "%%CITATION = ARXIV:1012.5545;%%",
+}
+@Article{Ref:Pythia,
+     author    = "{T. Sj\"{o}strand, S. Mrenna and P. Skands}",
+     title     = "{PYTHIA 6.4 physics and manual}",
+     journal   = "JHEP",
+     volume    = "026",
+     year      = "2006",
+     eprint    = "hep-ph/0603175",
+}
+
+@Article{Matsui:1986dk,
+     author    = "Matsui, T. and Satz, H.",
+     title     = "\Jpsi suppression by quark-gluon plasma formation",
+     journal   = "Phys. Lett.",
+     volume    = "B178",
+     year      = "1986",
+     pages     = "416",
+     doi       = "10.1016/0370-2693(86)91404-8",
+     SLACcitation  = "%%CITATION = PHLTA,B178,416;%%"
+}
+
+@Article{Brambilla:2010cs,
+      author         = "Brambilla, N. and others",
+      title          = "{Heavy quarkonium: progress, puzzles, and opportunities}",
+      journal        = "Eur. Phys. J.",
+      volume         = "C71",
+      pages          = "1534",
+      doi            = "10.1140/epjc/s10052-010-1534-9",
+      year           = "2011",
+      eprint         = "1010.5827",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+}
+
+%CNM
+@Article{Vogt:2010aa,
+      author         = "Vogt, R.",
+      title          = "{Cold Nuclear Matter Effects on \Jpsi and \PgU
+                        Production at the LHC}",
+      journal        = "Phys. Rev.",
+      volume         = "C81",
+      pages          = "044903",
+      doi            = "10.1103/PhysRevC.81.044903",
+      year           = "2010",
+      eprint         = "1003.3497",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+}
+%limits
+@Article{Neyman,
+      author 	     = "J. Neyman, Phil.",
+      title          = "{Reprinted in {\it A Selection of Early Statistical Papers on
+			J. Neyman} (University of California Press, Berkeley, 1967)}",
+      journal        = "Trans. Royal Soc. London, Series A",
+      pages          ="{pp. 250-289. See in particular pp. 250-252, 261-268, 285-286, of the
+                       reprint. Unfortunately, the quantity which Neyman calls $\alpha$ is
+		       precisely what is called $(1-\alpha)$ in modern references.  We use
+		       the adjectives ``classical'' and ``frequentist'' synonymously to refer
+		       to the theory of these confidence intervals.}",
+      year 	     ="1937",
+}
+@Article{MCMC,
+      author         = "A.Berg, Bernd.",
+      title          = "{Introduction to Markov Chain Monte Carlo Simulations and their Statistical Analysis}",
+      journal        = "In Markov Chain Monte Carlo, W.S. Kendall et al. Editors, Lecture Notes Series, Institute for Mathematical Sciences, National University of Singapore, World Scientific",
+      volume         = "7",		
+      pages          ="{p.1 ff}",
+      year           = "2005",
+      archivePrefix  = "arXiv",
+      primaryClass   = "cond-mat.stat-mech",
+}
+@Article{alexread,
+      author         = "Alex Read",
+      title          = "{Presentation of search results: the CLs technique}",
+      journal        = "Journal of Physics G: Nucl. Part. Phys.",
+      volume         = "28",
+      eprint         = "2693-2704",
+      year           = "2002",
+      url            = " http://www.iop.org/EJ/abstract/0954-3899/28/10/313/",
+}
+%rookeyspf Cranmer:2000du,
+@article{rookeyspdf,
+      author         = "Cranmer, Kyle S.",
+      title          = "{Kernel estimation in high-energy physics}",
+      journal        = "Comput.Phys.Commun.",
+      volume         = "136",
+      pages          = "198-207",
+      doi            = "10.1016/S0010-4655(00)00243-5",
+      year           = "2001",
+      eprint         = "hep-ex/0011057",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ex",
+      SLACcitation   = "%%CITATION = HEP-EX/0011057;%%",
+}
+@TECHREPORT{site-fit,
+     collaboration       = "{CMS}",
+     TITLE        = "Upsilon suppression fitting results",
+     URL       = "http://cern.ch/cms-hin-upsilon/fitting",
+     YEAR         = "2012"}
+%
+@TECHREPORT{site-bgshoulder,
+     collaboration       = "{CMS}",
+     TITLE        = "Upsilon suppression fitting results: background sculpting with \pt",
+     URL       = "http://cern.ch/cms-hin-upsilon/fitting/ptcut.aspx",
+     YEAR         = "2012"}
+%
+@article{M-Strickland,
+      author         = "Michael Strickland",
+      title          = "{Thermal $\Upsilon$ and $\chi_{b1}$ Suppression at $\sqrt{S_{NN}}$ = 2.76  Pb-Pb Collisions at the LHC}",
+      journal        = "Phys.Rev.Lett.",
+      volume         = "107",
+      pages          = "132301",
+      doi            = "10.1103/PhysRevLett.107.132301",
+      year           = "2011",
+}
+%

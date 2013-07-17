@@ -1,0 +1,75 @@
+%(online selection, skims, yields)
+%\subsection{Minimum bias}
+\chapter{Datasets}
+\subsection{PbPb dimuon trigger and skim}
+
+A primary dataset (/HIDiMuon/HIRun2011-PromptReco-v1/RECO) based on
+all events selected by the muon trigger has been used for this
+analysis. The RAW files and the prompt reconstruction files are stored
+at T1\_FR\_CCIN2P3. At the Tier-1, they were skimmed for events with
+two global muons that form a pair with an invariant mass of more than
+2\GeVcc (/HIDiMuon/\\tdahms-Onia2MuMu\_Skim-v3-*/USER). All charge
+combinations have been considered in the pairing. In addition to a
+muon trigger firing in the event a coincidence with the minimum bias
+trigger was required. This minimum bias trigger was defined by the
+logical or of the following three triggers, which were unprescaled during the run:
+\begin{itemize}
+\item A bunch crossing signal sent by the BPTX (BptxAND) and,  two coincident HF
+towers above a certain threshold (set in the firmware) on each side of the detector (HcalHfCoincPm) or at least one BSC segment (of the 16) giving a signal on each side of the detector (BscMinBiasThreshold 1):\\
+  L1\_HcalHfCoincPmORBscMinBiasThresh1\_BptxAND\_instance1.
+\item BSCThreshold1 which requires at least one BSC hit on each side (out of the 32 channels): 'L1\_NotBsc2\_BscMinBiasOR. `NotBsc2' is always 'True' so it can be ignored.
+\item coincidence of two HF towers on each side of the detector: HFL1\_HcalHfCoincidencePm.
+\end{itemize}
+
+Signal candidates are required to have fired the trigger path  {{HLT\_HIL1DoubleMu0\_HighQ}}. This trigger was unprescaled during the whole run. It is based solely on L1 decisions and requires the
+presence of two L1 muon objects with quality $>4$, without any
+constraint on their momenta. Coincidence with the BPTX trigger is required. 
+The trigger path has tighter quality requirements than the path HLT\_HIL1DoubleMuOpen  
+used in the 2010 \PbPb run, and than the path 
+HLT\_L1DoubleMu0 used in the 2011 \pp 2.76TeV run. 
+
+Furthermore, the default good event selection as in the 2010 analysis
+has been applied. This requires a veto on BSC halo triggers, a
+reconstructed primary vertex with two or more tracks, and the pixel
+cluster-length being compatible with the primary vertex to reject PKAM
+events. An additional requirement to remove UPC (ultra-peripheral collisions) events was the offline
+HF coincidence, requiring at least 3 HF towers on each side of the
+interaction point with at least 3\GeV energy deposited per tower.
+
+In summary, the events used for this analysis are required to pass the
+following filters : the BSC halo filter, a reconstructed primary
+vertex made of at least two tracks, the pixel cluster-length
+compatibility with the vertex, the requirement of an off-line HF
+coincidence with at least 3 towers on each side of the interaction
+point in the HF with at least 3 GeV energy deposited per tower, and the  {{HLT\_HIL1DoubleMu0\_HighQ}} muon trigger.
+
+The CMSSW release 4\_4\_2\_patch5 and the global tag GR\_P\_V27A were
+used during the skimming and analysis steps.
+
+\subsection{pp sample}
+
+The same \pp sample as for the 2010 analysis has been used~\cite{CMS_PAS_HIN-10-006,prl,QM2011}. 
+Signal candidates are required to have fired the trigger path HLT\_L1DoubleMu0.
+%{{HLT\_HIL1DoubleMuOpen}} => this pone was used for pbpb data in 2010
+%
+The data have been re-reconstructed in the same CMSSW release as the 2011 \PbPb
+data (4\_4\_2\_patch5) with the global tag GR\_R\_44\_V10:
+/AllPhysics2760/Nov2011\_HI-SD\_MuHI-276TeV\_ppRereco/RECO.
+
+%summary of path names:
+%PbPb (old MC): HLT_HIL1DoubleMuOpen_v1
+%PbPb (new MC): HLT_HIL1DoubleMu0_HighQ_v1
+%pp (old MC): HLT_L1DoubleMu0_v1
+%pp (newd MC): HLT_HIL1DoubleMu0_HighQ_v1
+
+
+\subsection{Monte Carlo samples}
+
+\PgUa events were simulated in \PYTHIA and embedded into
+\textsc{hydjet} as for last year's analysis. For this \PgUa were
+generated with realistic \pt and rapidity distributions in several
+bins of \pt (0--3, 3--6, 6--9, 9--12, 12--15, 15--30, and $>30\GeVc$)
+to enhance the statistics at high \pt:\\
+/Hydjet\_Bass\_MinBias\_2760GeV/davidlw-PyquenEvtGen\_upsilon1sMuMu\_upsPt*-Summer11-STARTHI44\_V7-v1-GEN-SIM-RECO\_v3-58956c214fa8e92cbba029d2c88707a9/USER
+
+\end{chapter}
